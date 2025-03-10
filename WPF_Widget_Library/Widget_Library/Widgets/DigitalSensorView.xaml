@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="Widget_Library.Widgets.DigitalSensorView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Widget_Library.Widgets"
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="100"
+             d:DataContext="{d:DesignInstance Type=local:DigitalSensorViewModel, IsDesignTimeCreatable=True}">
+    <UserControl.DataContext>
+        <local:DigitalSensorViewModel />
+    </UserControl.DataContext>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Ellipse Grid.Column="0" Grid.Row="0" Fill="Red" Stroke="{Binding StrokeColor}" StrokeThickness="3"/>
+    </Grid>
+</UserControl>

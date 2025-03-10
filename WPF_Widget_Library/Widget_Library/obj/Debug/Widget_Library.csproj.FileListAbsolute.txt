@@ -1,0 +1,16 @@
+C:\Users\taehy\Desktop\Code\Projects\WPF_Widget_Library\Widget_Library\bin\Debug\Widget_Library.dll
+C:\Users\taehy\Desktop\Code\Projects\WPF_Widget_Library\Widget_Library\bin\Debug\Widget_Library.pdb
+C:\Users\taehy\Desktop\Code\Projects\WPF_Widget_Library\Widget_Library\obj\Debug\Widget_Library.csproj.AssemblyReference.cache
+C:\Users\taehy\Desktop\Code\Projects\WPF_Widget_Library\Widget_Library\obj\Debug\UserControl1.g.cs
+C:\Users\taehy\Desktop\Code\Projects\WPF_Widget_Library\Widget_Library\obj\Debug\Widgets\DigitalSensorView.g.cs
+C:\Users\taehy\Desktop\Code\Projects\WPF_Widget_Library\Widget_Library\obj\Debug\Widget_Library_MarkupCompile.cache
+C:\Users\taehy\Desktop\Code\Projects\WPF_Widget_Library\Widget_Library\obj\Debug\Widget_Library_MarkupCompile.lref
+C:\Users\taehy\Desktop\Code\Projects\WPF_Widget_Library\Widget_Library\obj\Debug\UserControl1.baml
+C:\Users\taehy\Desktop\Code\Projects\WPF_Widget_Library\Widget_Library\obj\Debug\Widgets\DigitalSensorView.baml
+C:\Users\taehy\Desktop\Code\Projects\WPF_Widget_Library\Widget_Library\obj\Debug\Widget_Library.g.resources
+C:\Users\taehy\Desktop\Code\Projects\WPF_Widget_Library\Widget_Library\obj\Debug\Widget_Library.Properties.Resources.resources
+C:\Users\taehy\Desktop\Code\Projects\WPF_Widget_Library\Widget_Library\obj\Debug\Widget_Library.csproj.GenerateResource.cache
+C:\Users\taehy\Desktop\Code\Projects\WPF_Widget_Library\Widget_Library\obj\Debug\Widget_Library.csproj.CoreCompileInputs.cache
+C:\Users\taehy\Desktop\Code\Projects\WPF_Widget_Library\Widget_Library\obj\Debug\Widget_Library.dll
+C:\Users\taehy\Desktop\Code\Projects\WPF_Widget_Library\Widget_Library\obj\Debug\Widget_Library.pdb
+C:\Users\taehy\Desktop\Code\Projects\WPF_Widget_Library\Widget_Library\obj\Debug\GeneratedInternalTypeHelper.g.cs
